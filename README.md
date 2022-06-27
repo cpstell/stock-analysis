@@ -15,4 +15,6 @@ which requires less proccesoing power to operate. The results can be seen below
 with the reduction in times. Overall the difference is a few milliseconds between 
 the original code and the refactored code which is a huge benefit.
 
-![Picture of reaction time](
+![Picture of reaction time](VBA_Challenge_2017.png)
+
+![Picture of reaction time](VBA_Challenge_2018.png)
