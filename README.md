@@ -5,7 +5,7 @@ Repository address: https://github.com/cpstell/stock-analysis
 ## Overview of Project
 
 To analyze twelve stocks Steve's parents were thinking about investing in and to 
-give his parents the information needed to make the correct decision. The code was 
+provide the information needed to make the correct decision. The code was 
 refactored in an attempt to make it run quicker and more efficient.
 
 ## Results
@@ -98,9 +98,10 @@ the original code and the refactored code which is a huge benefit.
    
    ## Summary
    
-   The Advantages of refactoring are it offers a simpler, more concise code, with quicker processing times, and the use of less processing power. The disadvantages 
-   of refactoring are you take code that is working, and in the process of trying to make it better, you may introduce bugs that have to be fixed and will probably  
-   spend more time researching ways to improve an already working product.
+   The advantages of refactoring are it offers a simpler, more concise code, with quicker processing times, and the use of less processing power. 
+   The disadvantages of refactoring are you take code that is working, and in the process of trying to make it better, you may introduce bugs that
+   have to be fixed and will probably spend more time researching ways to improve an already working product.
+   
     
     
     
