@@ -94,3 +94,14 @@ the original code and the refactored code which is a huge benefit.
         Cells(i + 4, 3).Value = tickerEndingPrices(tickerIndex) / tickerStartingPrices(tickerIndex) - 1
         
     Next i
+    
+   
+   ## Summary
+   
+   The Advantages of refactoring are it offers a simpler, more concise code, with quicker processing times, and the use of less processing power. The disadvantages 
+   of refactoring are you take code that is working, and in the process of trying to make it better, you may introduce bugs that have to be fixed and will probably  
+   spend more time researching ways to improve an already working product.
+    
+    
+    
+    
